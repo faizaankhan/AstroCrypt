@@ -1,7 +1,8 @@
- *AstroCrypt*
+ # AstroCrypt
+ 
  AstroCrypt is an cryptographic encryption-decryption tool written in Python which uses AES-CBC encryption technique. It uses the AES-256-CBC cipher and encodes the encrypted data with Base64. In simple terms, user can use the tool to encrypt their files whatsoever it may be, for example a text file , an image, an audio-video file , a pdf , or a typical openXML with a password and can keep them safe until it is decrypted using the same password.
  
- *SOFTWARE REQUIREMENTS*
+# SOFTWARE REQUIREMENTS
 
 A standalone version is available for the tool , still if you want to use the tool by using the source code you require to have the below packages in your system.
 1. Python 2.7+ 
@@ -9,7 +10,7 @@ A standalone version is available for the tool , still if you want to use the to
 3. Tkinter
 For links and installation guideline follow the next topic.
 
-*INSTALLATION*
+# INSTALLATION
 
 A.  Using the direct executable to run:
 	A standalone executable file is being made available if user wants to run the tool without installing other softwares as required.
